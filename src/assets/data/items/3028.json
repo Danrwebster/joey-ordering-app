@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Torbreck 'Old Vines' GSM - Barossa Valley, Australia",
+        "id": "3028"
+    },
+    "description": "A wild and savage blend offering up loads of smoke, spice, and savour",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "61",
+                "value": 61
+            }
+        }
+    ]
+}

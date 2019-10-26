@@ -1,0 +1,15 @@
+{
+    "descriptor": {
+        "title": "Stanley Park 'Windstorm' West Coast Pale Ale",
+        "id": "4007"
+    },
+    "options": [
+        {
+            "name": "14oz",
+            "priceLevel": {
+                "formattedPrice": "7&nbsp&#xBD;",
+                "value": 7.5
+            }
+        }
+    ]
+}

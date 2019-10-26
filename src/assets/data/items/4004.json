@@ -1,0 +1,15 @@
+{
+    "descriptor": {
+        "title": "Kronenbourg 1664 Fruits Rouges",
+        "id": "4004"
+    },
+    "options": [
+        {
+            "name": "14oz",
+            "priceLevel": {
+                "formattedPrice": "9&nbsp&#xBE;",
+                "value": 9.75
+            }
+        }
+    ]
+}

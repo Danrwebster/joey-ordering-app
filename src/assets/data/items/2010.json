@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Castel Firmian Pinot Grigio",
+        "id": "2010"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "7&nbsp&#xBD;",
+                "value": 7.50
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Calamari Fritti",
+        "id": "1004"
+    },
+    "description": "tempura vegetables, spicy aioli",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "15 \u00c2\u00bc",
+                "value": 15.25
+            }
+        }
+    ]
+}

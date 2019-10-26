@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Wynns 'Black Label' Cabernet Sauvignon - Coonawarra, Australia",
+        "id": "3041"
+    },
+    "description": "One of the top Cabernets made in the world. An absolute legend from Australia",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "71",
+                "value": 71
+            }
+        }
+    ]
+}

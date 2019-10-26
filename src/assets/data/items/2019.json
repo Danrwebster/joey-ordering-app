@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Lettuce Wraps ",
+        "id": "2019"
+    },
+    "description": "wok vegetables, peanuts, crispy noodles, hoisin oyster sauce, cilantro",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "10",
+                "value": 10
+            }
+        }
+    ]
+}

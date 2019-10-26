@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Cuvée Jean Paul Red",
+        "id": "2007"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "5&nbsp&#xBD;",
+                "value": 5.50
+            }
+        }
+    ]
+}

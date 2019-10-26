@@ -1,0 +1,15 @@
+{
+    "descriptor": {
+        "title": "Stella Artois",
+        "id": "4003"
+    },
+    "options": [
+        {
+            "name": "40cl",
+            "priceLevel": {
+                "formattedPrice": "10",
+                "value": 10.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Steak Frites",
+        "id": "2031"
+    },
+    "description": "6oz cut, parsley butter, rocket greens, fries",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "20",
+                "value": 20
+            }
+        }
+    ]
+}

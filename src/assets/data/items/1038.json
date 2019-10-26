@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Baby Back Ribs - Full",
+        "id": "1038"
+    },
+    "description": "slow-braised-in-house, bbq sauce, fries, dill slaw",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "33 ",
+                "value": 33.0
+            }
+        }
+    ]
+}

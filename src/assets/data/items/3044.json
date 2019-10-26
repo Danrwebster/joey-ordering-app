@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Freemark Abbey Cabernet Sauvignon - Napa Valley, California",
+        "id": "3044"
+    },
+    "description": "A grand Napa estate. Hallmark flavours of cassis &amp; cedar smoke evolve to a long finish",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "97",
+                "value": 97
+            }
+        }
+    ]
+}

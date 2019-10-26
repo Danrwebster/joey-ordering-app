@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Zonin Prosecco - Veneto, Italy",
+        "id": "3001"
+    },
+    "description": "Bright, fruity &amp; refined expression from this renowned Prosecco estate",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "48",
+                "value": 48
+            }
+        }
+    ]
+}

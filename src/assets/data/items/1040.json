@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Ravioli With Lobster Cream &amp; Seared Prawns",
+        "id": "1040"
+    },
+    "description": "micro herbs, fresh dill",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "26 ",
+                "value": 26.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "The Butcher's Sandwich",
+        "id": "1026"
+    },
+    "description": "smoky jus, crispy onions, dijon, rosemary salt, Certified Angus Beef\u00c2\u00ae",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "19 \u00c2\u00bd",
+                "value": 19.5
+            }
+        }
+    ]
+}

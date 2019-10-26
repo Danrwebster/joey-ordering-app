@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Parés Baltá 'Organic' Cava - Penedès, Spain",
+        "id": "3002"
+    },
+    "description": "This Cava always over delivers. Crisp &amp; minerally profile with fine &amp; refreshing bubble",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "56",
+                "value": 56
+            }
+        }
+    ]
+}

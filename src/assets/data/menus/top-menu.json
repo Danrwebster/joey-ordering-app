@@ -1,0 +1,30 @@
+[
+    {
+        "descriptor": {
+            "title": "Food Menu",
+            "id": "1"
+        },
+        "imageURL": ""
+    },
+    {
+        "descriptor": {
+            "title": "Happy Hour",
+            "id": "2"
+        },
+        "imageURL": ""
+    },
+    {
+        "descriptor": {
+            "title": "Wine List",
+            "id": "3"
+        },
+        "imageURL": ""
+    },
+    {
+        "descriptor": {
+            "title": "Beer",
+            "id": "4"
+        },
+        "imageURL": ""
+    }
+]

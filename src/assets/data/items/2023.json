@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Lettuce Wraps (Shrimp)",
+        "id": "2023"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "13",
+                "value": 13
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Yellowfin Tuna",
+        "id": "1022"
+    },
+    "description": "seared rare, mango, peanuts, avocado, crispy noodles, cilantro ginger dressing",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "20 \u00c2\u00bc",
+                "value": 20.25
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "California Chicken",
+        "id": "1027"
+    },
+    "description": "spicy mayo, aged cheddar, smoky bacon",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "17 \u00c2\u00bd",
+                "value": 17.5
+            }
+        }
+    ]
+}

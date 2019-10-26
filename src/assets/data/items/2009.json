@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Stella Artois",
+        "id": "2009"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "40cl",
+            "priceLevel": {
+                "formattedPrice": "7&nbsp&#xBD;",
+                "value": 7.50
+            }
+        }
+    ]
+}

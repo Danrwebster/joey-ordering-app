@@ -1,0 +1,276 @@
+{
+    "title": "Beer Menu",
+    "imageURL": "../../../assets/images/Beer.jpg",
+    "dailySpecial": {
+        "descriptor": {
+            "title": "",
+            "id": ""
+        },
+        "options": [
+            {
+                "name": ""
+            }
+        ],
+        "description": "",
+        "myMenu": false
+    },
+    "footerImage": "url",
+    "categories": [
+        {
+            "descriptor": {
+                "title": "Draft",
+                "id": "40"
+            },
+            "menuItems": [
+                {
+                    "descriptor": {
+                        "title": "JOEY Genuine Draft",
+                        "id": "4000"
+                    },
+                    "options": [
+                        {
+                            "name": "14oz",
+                            "priceLevel": {
+                                "formattedPrice": "6&nbsp&#xBE;",
+                                "value": 6.75
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Parallel 49 ' Trash Panda' IPA",
+                        "id": "4001"
+                    },
+                    "options": [
+                        {
+                            "name": "14oz",
+                            "priceLevel": {
+                                "formattedPrice": "7&nbsp&#xBD;",
+                                "value": 7.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Okanagan Springs 1516",
+                        "id": "4002"
+                    },
+                    "options": [
+                        {
+                            "name": "14oz",
+                            "priceLevel": {
+                                "formattedPrice": "7&nbsp&#xBD;",
+                                "value": 7.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Stella Artois",
+                        "id": "4003"
+                    },
+                    "options": [
+                        {
+                            "name": "40cl",
+                            "priceLevel": {
+                                "formattedPrice": "10",
+                                "value": 10.0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Kronenbourg 1664 Fruits Rouges",
+                        "id": "4004"
+                    },
+                    "options": [
+                        {
+                            "name": "14oz",
+                            "priceLevel": {
+                                "formattedPrice": "9&nbsp&#xBE;",
+                                "value": 9.75
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Shock Top Belgian White",
+                        "id": "4005"
+                    },
+                    "options": [
+                        {
+                            "name": "14oz",
+                            "priceLevel": {
+                                "formattedPrice": "7&nbsp&#xBD;",
+                                "value": 7.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Red Truck ' Round Trip' Amber Ale",
+                        "id": "4006"
+                    },
+                    "options": [
+                        {
+                            "name": "14oz",
+                            "priceLevel": {
+                                "formattedPrice": "7&nbsp&#xBD;",
+                                "value": 7.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Stanley Park 'Windstorm' West Coast Pale Ale",
+                        "id": "4007"
+                    },
+                    "options": [
+                        {
+                            "name": "14oz",
+                            "priceLevel": {
+                                "formattedPrice": "7&nbsp&#xBD;",
+                                "value": 7.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Last Best IPA",
+                        "id": "4008"
+                    },
+                    "options": [
+                        {
+                            "name": "14oz",
+                            "priceLevel": {
+                                "formattedPrice": "7&nbsp&#xBD;",
+                                "value": 7.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Guinness",
+                        "id": "4009"
+                    },
+                    "options": [
+                        {
+                            "name": "20oz",
+                            "priceLevel": {
+                                "formattedPrice": "10",
+                                "value": 10
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "descriptor": {
+                "title": "Bottled Or Canned",
+                "id": "41"
+            },
+            "menuItems": [
+                {
+                    "descriptor": {
+                        "title": "Bud Light",
+                        "id": "4010"
+                    },
+                    "options": [
+                        {
+                            "name": "341ml",
+                            "priceLevel": {
+                                "formattedPrice": "7&nbsp&#xBD;",
+                                "value": 7.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Coors Light",
+                        "id": "4011"
+                    },
+                    "options": [
+                        {
+                            "name": "341ml",
+                            "priceLevel": {
+                                "formattedPrice": "7&nbsp&#xBD;",
+                                "value": 7.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Budweiser",
+                        "id": "4012"
+                    },
+                    "options": [
+                        {
+                            "name": "341ml",
+                            "priceLevel": {
+                                "formattedPrice": "7&nbsp&#xBD;",
+                                "value": 7.5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Corona",
+                        "id": "4013"
+                    },
+                    "options": [
+                        {
+                            "name": "330ml",
+                            "priceLevel": {
+                                "formattedPrice": "8",
+                                "value": 8
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Heineken",
+                        "id": "4014"
+                    },
+                    "options": [
+                        {
+                            "name": "330ml",
+                            "priceLevel": {
+                                "formattedPrice": "8",
+                                "value": 8
+                            }
+                        }
+                    ]
+                },
+                {
+                    "descriptor": {
+                        "title": "Lonetree Apple Cider",
+                        "id": "4015"
+                    },
+                    "options": [
+                        {
+                            "name": "473ml",
+                            "priceLevel": {
+                                "formattedPrice": "10",
+                                "value": 10
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

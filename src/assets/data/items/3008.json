@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Burrowing Owl Pinot Gris - Okanagan Valley, BC",
+        "id": "3008"
+    },
+    "description": "Benchmark Okanagan Pinot Gris. Honeyed richness with a ripe orchard expression",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "58",
+                "value": 58
+            }
+        }
+    ]
+}

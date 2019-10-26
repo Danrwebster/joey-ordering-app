@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Cuvée Jean Paul White",
+        "id": "2006"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "5&nbsp&#xBD;",
+                "value": 5.50
+            }
+        }
+    ]
+}

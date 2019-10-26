@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Lettuce Wraps (Chicken)",
+        "id": "2022"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "13",
+                "value": 13
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Santa Rita 'Winemaker's Lot' Sauvignon Blanc - Chile",
+        "id": "3005"
+    },
+    "description": "Bright, delicate and delicious from one of Chile's most renowned wineries",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "9&nbsp&#xBE;",
+                "value": 9.75
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "14&nbsp&#xBE;",
+                "value": 14.75
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "39",
+                "value": 39
+            }
+        }
+    ]
+}

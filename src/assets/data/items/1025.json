@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Baja Fish Tacos",
+        "id": "1025"
+    },
+    "description": "lightly breaded shrimp &amp; fish, white corn tortilla, Valentina\u00e2\u20ac\u2122s, guacamole, cheddar cheese, no fries here",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "17 \u00c2\u00bc",
+                "value": 17.25
+            }
+        }
+    ]
+}

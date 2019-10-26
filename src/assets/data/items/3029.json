@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Fontodi Chianti Classico - Tuscany, Italy",
+        "id": "3029"
+    },
+    "description": "One of the world’s great wine estates showcasing the very finest from Tuscany",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "84",
+                "value": 84
+            }
+        }
+    ]
+}

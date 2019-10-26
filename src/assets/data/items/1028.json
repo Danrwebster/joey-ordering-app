@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Hourly Roasted Chicken Sandwich",
+        "id": "1028"
+    },
+    "description": "white cheddar, crisp bacon, rosemary rocksalt sourdough",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "17 \u00c2\u00be",
+                "value": 17.75
+            }
+        }
+    ]
+}

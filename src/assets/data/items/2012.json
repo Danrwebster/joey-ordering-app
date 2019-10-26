@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Rosemary Garlic Fries",
+        "id": "2012"
+    },
+    "description": "with grainy mustard aioli",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "4",
+                "value": 4
+            }
+        }
+    ]
+}

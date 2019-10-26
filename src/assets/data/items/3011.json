@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Castel Firmian Pinot Grigio - Veneto, Italy",
+        "id": "3011"
+    },
+    "description": "Exceptionally fine Pinot Grigio. Ripe stone fruit &amp; mouthwatering texture",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "13&nbsp&#xBE;",
+                "value": 13.75
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "20&nbsp&#xBD;",
+                "value": 20.5
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "55",
+                "value": 55
+            }
+        }
+    ]
+}

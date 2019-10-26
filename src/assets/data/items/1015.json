@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Hoisin Ginger Wings",
+        "id": "1015"
+    },
+    "description": "sweet + spicy hoisin glaze, fresh lemon",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "14 \u00c2\u00bd",
+                "value": 14.5
+            }
+        }
+    ]
+}

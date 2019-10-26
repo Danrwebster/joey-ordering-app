@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Farmers Market Chicken",
+        "id": "1021"
+    },
+    "description": "hourly roasted chicken, fresh corn, emerald kale, Hass avocado, toasted almonds, aged white cheddar",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "19 \u00c2\u00be",
+                "value": 19.75
+            }
+        }
+    ]
+}

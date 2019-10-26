@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Tandoori Chicken Flatbread",
+        "id": "1006"
+    },
+    "description": "chutney, red onion, cilantro, yogurt",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "16 \u00c2\u00be",
+                "value": 16.75
+            }
+        }
+    ]
+}

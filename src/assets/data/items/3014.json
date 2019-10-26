@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Whatchamacallit Chardonnay - California",
+        "id": "3014"
+    },
+    "description": "Classic California Chardonnay – rich, toasty &amp; textured",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "10&nbsp&#xBE;",
+                "value": 10.75
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "16&nbsp&#xBC;",
+                "value": 16.25
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "43",
+                "value": 43
+            }
+        }
+    ]
+}

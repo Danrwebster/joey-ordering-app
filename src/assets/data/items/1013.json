@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Hot Wings",
+        "id": "1013"
+    },
+    "description": "frank\u00e2\u20ac\u2122s hot sauce, creamy blue cheese dip",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "14 \u00c2\u00bd",
+                "value": 14.5
+            }
+        }
+    ]
+}

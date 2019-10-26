@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Yam Fries",
+        "id": "1008"
+    },
+    "description": "with spicy aioli",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "10 ",
+                "value": 10.0
+            }
+        }
+    ]
+}

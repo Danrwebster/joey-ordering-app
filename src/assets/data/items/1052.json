@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Molten Chocolate Cake",
+        "id": "1052"
+    },
+    "description": "fresh raspberries, Tahitian vanilla ice cream",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "9 \u00c2\u00bd",
+                "value": 9.5
+            }
+        }
+    ]
+}

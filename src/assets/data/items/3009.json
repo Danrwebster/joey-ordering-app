@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Cuvée Jean-Paul Blanc - France",
+        "id": "3009"
+    },
+    "description": "Crisp, dry &amp; refreshing. Quenching &amp; divine daily white wine",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "9",
+                "value": 9
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "13&nbsp&#xBE;",
+                "value": 13.75
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "36",
+                "value": 36
+            }
+        }
+    ]
+}

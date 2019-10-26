@@ -1,0 +1,15 @@
+{
+    "descriptor": {
+        "title": "Coors Light",
+        "id": "4011"
+    },
+    "options": [
+        {
+            "name": "341ml",
+            "priceLevel": {
+                "formattedPrice": "7&nbsp&#xBD;",
+                "value": 7.5
+            }
+        }
+    ]
+}

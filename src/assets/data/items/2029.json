@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Bombay Butter Chicken",
+        "id": "2029"
+    },
+    "description": "yogurt + cilantro, aromatic basmati rice, house baked naan",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "16",
+                "value": 16
+            }
+        }
+    ]
+}

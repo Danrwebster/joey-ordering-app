@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Okanagan Springs 1516",
+        "id": "2005"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "14oz",
+            "priceLevel": {
+                "formattedPrice": "4&nbsp&#xBD;",
+                "value": 4.50
+            }
+        }
+    ]
+}

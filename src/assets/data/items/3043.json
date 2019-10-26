@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Burrowing Owl Merlot - Okanagan Valley, BC",
+        "id": "3043"
+    },
+    "description": "Deep &amp; structured Okanagan Merlot from one of BC’s most renowned wineries",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "78",
+                "value": 78
+            }
+        }
+    ]
+}

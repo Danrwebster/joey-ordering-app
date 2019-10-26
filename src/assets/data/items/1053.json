@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Warm Italian Donuts",
+        "id": "1053"
+    },
+    "description": "vanilla + mascarpone cream, lemon curd",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "9 ",
+                "value": 9.0
+            }
+        }
+    ]
+}

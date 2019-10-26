@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "P49 'Trash Panda' IPA",
+        "id": "2004"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "14oz",
+            "priceLevel": {
+                "formattedPrice": "4&nbsp&#xBD;",
+                "value": 4.50
+            }
+        }
+    ]
+}

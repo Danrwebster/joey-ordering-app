@@ -1,0 +1,948 @@
+{
+	"title": "Food Menu",
+	"imageURL": "../../../assets/images/TunaSalad.jpg",
+	"dailySpecial": {
+		"descriptor": {
+			"title": "",
+			"id": ""
+		},
+		"options": [
+			{
+				"name": ""
+			}
+		],
+		"description": "",
+		"myMenu": false
+	},
+	"footerImage": "url",
+	"categories": [
+		{
+			"descriptor": {
+				"title": "Smalls + Sharing",
+				"id": "10"
+			},
+			"menuItems": [
+				{
+					"descriptor": {
+						"title": "Hummus",
+						"id": "1000"
+					},
+					"description": "tzatziki, dill + olives, crispy pita",
+					"myMenu": true,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "15",
+								"value": 15.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Lettuce Wraps",
+						"id": "1001"
+					},
+					"description": "wok vegetables, peanuts, crispy noodles, hoisin oyster sauce, cilantro + chicken or shrimp 2.50",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "15 &#xBE;",
+								"value": 15.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Japanese Gyoza",
+						"id": "1002"
+					},
+					"description": "pork dumplings with hot mustard",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "14 &#xBC;",
+								"value": 14.25
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Chili Chicken",
+						"id": "1003"
+					},
+					"description": "tempura-style, cool cucumbers, chili sauce",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "14",
+								"value": 14.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Calamari Fritti",
+						"id": "1004"
+					},
+					"description": "tempura vegetables, spicy aioli",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "15 &#xBC;",
+								"value": 15.25
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Pesto Shrimp Flatbread",
+						"id": "1005"
+					},
+					"description": "whole milk mozzarella, sun-dried tomatoes, chipotle aioli",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "16 &#xBE;",
+								"value": 16.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Tandoori Chicken Flatbread",
+						"id": "1006"
+					},
+					"description": "chutney, red onion, cilantro, yogurt",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "16 &#xBE;",
+								"value": 16.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Sliders Royale",
+						"id": "1007"
+					},
+					"description": "secret sauce, American cheese, Certified Angus Beef&#xAE;",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "15",
+								"value": 15.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Yam Fries",
+						"id": "1008"
+					},
+					"description": "with spicy aioli",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "10",
+								"value": 10.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Crispy Chicken Strips",
+						"id": "1009"
+					},
+					"description": "with plum sauce",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "13 &#xBD;",
+								"value": 13.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Three Mini Crispy Chicken Burgers",
+						"id": "1010"
+					},
+					"description": "spicy aioli, pickles, smoky salt",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "15 &#xBC;",
+								"value": 15.25
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "5 Spice Dry Ribs",
+						"id": "1011"
+					},
+					"description": "crispy pork dry ribs, seasoned with chinese 5 spice, coarse salt, fresh lemon",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "12 &#xBD;",
+								"value": 12.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Crispy Tuna Sushi",
+						"id": "1012"
+					},
+					"description": "ahi tuna tartare, garlic chili sauce, micro cilantro",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "13 &#xBD;",
+								"value": 13.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Hot Wings",
+						"id": "1013"
+					},
+					"description": "frank&#x27;s hot sauce, creamy blue cheese dip",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "14 &#xBD;",
+								"value": 14.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "BBQ Wings",
+						"id": "1014"
+					},
+					"description": "blue cheese dip, crispy onions",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "14 &#xBD;",
+								"value": 14.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Hoisin Ginger Wings",
+						"id": "1015"
+					},
+					"description": "sweet + spicy hoisin glaze, fresh lemon",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "14 &#xBD;",
+								"value": 14.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "House Salad",
+						"id": "1016"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "8 &#xBE;",
+								"value": 8.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Mushroom Soup",
+						"id": "1017"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "8 &#xBC;",
+								"value": 8.25
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Wedge Of Garlic Toast",
+						"id": "1018"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "2 &#xBE;",
+								"value": 2.75
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"descriptor": {
+				"title": "Sushi",
+				"id": "11"
+			},
+			"menuItems": [
+				{
+					"descriptor": {
+						"title": "Sushi Cone",
+						"id": "1019"
+					},
+					"description": "tempura prawn, avocado, spicy mayo, tobiko",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "5 &#xBD;",
+								"value": 5.5
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"descriptor": {
+				"title": "Salads",
+				"id": "12"
+			},
+			"menuItems": [
+				{
+					"descriptor": {
+						"title": "Katsu Chicken Peanut Salad",
+						"id": "1020"
+					},
+					"description": "crispy chicken breast, julienne vegetables, arugula, miso ginger dressing",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "19 &#xBE;",
+								"value": 19.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Farmers Market Chicken",
+						"id": "1021"
+					},
+					"description": "hourly roasted chicken, fresh corn, emerald kale, Hass avocado, toasted almonds, aged white cheddar",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "19 &#xBE;",
+								"value": 19.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Yellowfin Tuna",
+						"id": "1022"
+					},
+					"description": "seared rare, mango, peanuts, avocado, crispy noodles, cilantro ginger dressing",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "20 &#xBC;",
+								"value": 20.25
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "The New Cobb",
+						"id": "1023"
+					},
+					"description": "romaine + kale, double smoked bacon, soft boiled egg, grilled chicken breast, Grana Padano dressing",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "19 &#xBE;",
+								"value": 19.75
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"descriptor": {
+				"title": "Sandwiches + Burgers",
+				"id": "13"
+			},
+			"menuItems": [
+				{
+					"descriptor": {
+						"title": "Ahi Tuna Club",
+						"id": "1024"
+					},
+					"description": "grilled rare, bacon, sweet pepper relish, onion rings",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "18 &#xBE;",
+								"value": 18.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Baja Fish Tacos",
+						"id": "1025"
+					},
+					"description": "lightly breaded shrimp &amp; fish, white corn tortilla, Valentina&#x27;s, guacamole, cheddar cheese, no fries here",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "17 &#xBC;",
+								"value": 17.25
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "The Butcher's Sandwich",
+						"id": "1026"
+					},
+					"description": "smoky jus, crispy onions, dijon, rosemary salt, Certified Angus Beef&#xae;",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "19 &#xBD;",
+								"value": 19.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "California Chicken",
+						"id": "1027"
+					},
+					"description": "spicy mayo, aged cheddar, smoky bacon",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "17 &#xBD;",
+								"value": 17.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Hourly Roasted Chicken Sandwich",
+						"id": "1028"
+					},
+					"description": "white cheddar, crisp bacon, rosemary rocksalt sourdough",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "17 &#xBE;",
+								"value": 17.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Hand-Pressed Burger",
+						"id": "1029"
+					},
+					"description": "all the groceries, Certified Angus Beef&#x27; + mushroom cheddar 2 + cheddar bacon 2",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "16 &#xBE;",
+								"value": 16.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Protein-Style Burger",
+						"id": "1030"
+					},
+					"description": "forget the bun, wrapped in lettuce",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "16 &#xBD;",
+								"value": 16.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "House-Made Veggie Burger",
+						"id": "1031"
+					},
+					"description": "brown rice, mushroom + almonds, miso dressing &amp; sprouts",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "17 &#xBC;",
+								"value": 17.25
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"descriptor": {
+				"title": "Mains",
+				"id": "14"
+			},
+			"menuItems": [
+				{
+					"descriptor": {
+						"title": "BBQ Salmon Rice Bowl",
+						"id": "1032"
+					},
+					"description": "sweet sesame soy sauce, snap peas, edamame, mushrooms, daikon",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "19 &#xBC;",
+								"value": 19.25
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Teriyaki Chicken Rice Bowl",
+						"id": "1033"
+					},
+					"description": "wok seared vegetables, mushrooms, sweet sesame soy sauce",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "18 &#xBE;",
+								"value": 18.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Spaghetti Pomodoro",
+						"id": "1034"
+					},
+					"description": "Calabrian chili spiked tomato sauce, whipped ricotta, fresh basil, parmesan",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "18 &#xBC;",
+								"value": 18.25
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Panang Prawn Curry Bowl",
+						"id": "1035"
+					},
+					"description": "red curry sauce, lime, Thai basil, peanuts",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "21 &#xBE;",
+								"value": 21.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Bombay Butter Chicken",
+						"id": "1036"
+					},
+					"description": "aromatic basmati rice, house baked naan",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "20 &#xBD;",
+								"value": 20.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Chicken Parmesan",
+						"id": "1037"
+					},
+					"description": "baked with mozzarella + parmesan cheeses, served with our pasta pomodoro",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "25",
+								"value": 25.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Baby Back Ribs - Full",
+						"id": "1038"
+					},
+					"description": "slow-braised-in-house, bbq sauce, fries, dill slaw",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "33",
+								"value": 33.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Baby Back Ribs - Half",
+						"id": "1039"
+					},
+					"description": "slow-braised-in-house, bbq sauce, fries, dill slaw",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "25 &#xBE;",
+								"value": 25.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Ravioli With Lobster Cream &amp; Seared Prawns",
+						"id": "1040"
+					},
+					"description": "micro herbs, fresh dill",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "26",
+								"value": 26.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Herb Crush Salmon",
+						"id": "1041"
+					},
+					"description": "lemon butter sauce, crispy mashed potato, today&#x27;s vegetables",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "29 &#xBD;",
+								"value": 29.5
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"descriptor": {
+				"title": "Rotisserie Chicken",
+				"id": "15"
+			},
+			"menuItems": [
+				{
+					"descriptor": {
+						"title": "Bistro Plate",
+						"id": "1042"
+					},
+					"description": "fries, sun-dried tomato gravy, coleslaw",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "24",
+								"value": 24.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Rotisserie Chicken",
+						"id": "1043"
+					},
+					"description": "mashed potatoes, today&#x27;s vegetables, sun-dried tomato gravy",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "26",
+								"value": 26.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Rotisserie Chicken + BBQ Ribs",
+						"id": "1044"
+					},
+					"description": "mashed potatoes, today&#x27;s vegetables, sun-dried tomato gravy",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "29 &#xBD;",
+								"value": 29.5
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"descriptor": {
+				"title": "Steakhouse",
+				"id": "16"
+			},
+			"menuItems": [
+				{
+					"descriptor": {
+						"title": "Steak Frites",
+						"id": "1045"
+					},
+					"description": "6 oz cut, parsley butter, rocket greens, fries",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "27",
+								"value": 27.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Steak + Sushi",
+						"id": "1046"
+					},
+					"description": "tataki-style steak, ponzu sauce, two tempura prawn sushi cones or crispy tuna sushi",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "26",
+								"value": 26.0
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "New York Steak",
+						"id": "1047"
+					},
+					"description": "the king of steaks + peppercorn sauce 3\u00c2\u00be",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "37 &#xBC;",
+								"value": 37.25
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Filet Mignon",
+						"id": "1048"
+					},
+					"description": "ultimate tenderness",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "38 &#xBE;",
+								"value": 38.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Prime Sirloin",
+						"id": "1049"
+					},
+					"description": "considered the most flavourful cut + blue cheese butter 3\u00c2\u00bc",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "28 &#xBE;",
+								"value": 28.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Steak + Prawns",
+						"id": "1050"
+					},
+					"description": "grilled prawn skewer, prime sirloin",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "36 &#xBD;",
+								"value": 36.5
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"descriptor": {
+				"title": "Sweets",
+				"id": "17"
+			},
+			"menuItems": [
+				{
+					"descriptor": {
+						"title": "Individually Baked Apple Pie",
+						"id": "1051"
+					},
+					"description": "hand-folded pastry, toasted almonds, Canadian maple ice cream",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "9 &#xBE;",
+								"value": 9.75
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Molten Chocolate Cake",
+						"id": "1052"
+					},
+					"description": "fresh raspberries, Tahitian vanilla ice cream",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "9 &#xBD;",
+								"value": 9.5
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Warm Italian Donuts",
+						"id": "1053"
+					},
+					"description": "vanilla + mascarpone cream, lemon curd",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "9",
+								"value": 9.0
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

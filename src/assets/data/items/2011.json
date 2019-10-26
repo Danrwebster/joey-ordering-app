@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Punto Final Malbec",
+        "id": "2011"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "7&nbsp&#xBD;",
+                "value": 7.50
+            }
+        }
+    ]
+}

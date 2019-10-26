@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Dom Perignon - Champagne, France",
+        "id": "3004"
+    },
+    "description": "The legendary Champagne. Complex, rich &amp; nuanced. Worthy of the celebration",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "415",
+                "value": 415
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Johnny Q. Cabernet Sauvignon  - Australia",
+        "id": "3032"
+    },
+    "description": "Dark, smooth and rich Cabernet. Full throttle flavours from south Australia",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "10&nbsp&#xBE;",
+                "value": 10.75
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "16&nbsp&#xBE;",
+                "value": 16.75
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "43",
+                "value": 43
+            }
+        }
+    ]
+}

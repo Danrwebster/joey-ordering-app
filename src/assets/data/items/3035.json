@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Cedarcreek Meritage - Okanagan Valley, BC",
+        "id": "3035"
+    },
+    "description": "One of BC's classic wineries – beautifully crafted and always a standout",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "68",
+                "value": 68
+            }
+        }
+    ]
+}

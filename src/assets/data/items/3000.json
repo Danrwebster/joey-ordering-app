@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Freixenet Cava - Spain",
+        "id": "3000"
+    },
+    "description": "Your perfect aperitif - a little splash of the ultra-fresh, bone-dry bubbles of Spain",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "14",
+                "value": 14
+            }
+        }
+    ]
+}

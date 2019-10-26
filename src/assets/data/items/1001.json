@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Lettuce Wraps",
+        "id": "1001"
+    },
+    "description": "wok vegetables, peanuts, crispy noodles, hoisin oyster sauce, cilantro + chicken or shrimp 2.50",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "15 \u00c2\u00be",
+                "value": 15.75
+            }
+        }
+    ]
+}

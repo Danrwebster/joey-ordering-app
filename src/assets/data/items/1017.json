@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Mushroom Soup",
+        "id": "1017"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "8 \u00c2\u00bc",
+                "value": 8.25
+            }
+        }
+    ]
+}

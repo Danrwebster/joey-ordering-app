@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Hummus",
+        "id": "1000"
+    },
+    "description": "tzatziki, dill + olives, crispy pita",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "15",
+                "value": 15.0
+            }
+        }
+    ]
+}

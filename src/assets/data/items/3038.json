@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Trim Cabernet Sauvignon - California",
+        "id": "3038"
+    },
+    "description": "Luscious &amp; rich Cabernet brimming with blackberry, mocha &amp; dark fruit",
+    "myMenu": false,
+    "otions": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "14&nbsp&#xBE;",
+                "value": 14.75
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "22",
+                "value": 22
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "58",
+                "value": 58
+            }
+        }
+    ]
+}

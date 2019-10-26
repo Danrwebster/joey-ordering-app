@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Union Wine Co. 'Underwood' Pinot Noir - Oregon",
+        "id": "3022"
+    },
+    "description": "A lighter, vibrant &amp; red-toned style studded with an intriguing earthy nuance",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "45",
+                "value": 45
+            }
+        }
+    ]
+}

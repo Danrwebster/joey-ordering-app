@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Bistro Plate",
+        "id": "1042"
+    },
+    "description": "fries, sun-dried tomato gravy, coleslaw",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "24 ",
+                "value": 24.0
+            }
+        }
+    ]
+}

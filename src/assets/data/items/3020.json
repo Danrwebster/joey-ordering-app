@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Cuvee Jean-Paul Rouge - France",
+        "id": "3020"
+    },
+    "description": "Light, juicy &amp; savoury. A succulent &amp; crushable French countryside red",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "9",
+                "value": 9
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "13&nbsp&#xBE;",
+                "value": 13.75
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "36",
+                "value": 36
+            }
+        }
+    ]
+}

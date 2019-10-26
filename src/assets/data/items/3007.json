@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "The Hatch 'Byanco' Pinot Blanc - Okanagan Valley, BC",
+        "id": "3007"
+    },
+    "description": "A bone-dry and totally refreshing white wine from the Oakanagan Valley",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "11",
+                "value": 11
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "16&nbsp&#xBD;",
+                "value": 16.5
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "44",
+                "value": 44
+            }
+        }
+    ]
+}

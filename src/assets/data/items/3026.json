@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Renacer 'Punto Final' Malbec - Mendoza, Argentina",
+        "id": "3026"
+    },
+    "description": "Sensational Malbec. Mouthwatering tension layered with a dark and savoury streak",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "11&nbsp&#xBD;",
+                "value": 11.5
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "17&nbsp&#xBC;",
+                "value": 17.25
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "46",
+                "value": 46
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Individually Baked Apple Pie",
+        "id": "1051"
+    },
+    "description": "hand-folded pastry, toasted almonds, Canadian maple ice cream",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "9 \u00c2\u00be",
+                "value": 9.75
+            }
+        }
+    ]
+}

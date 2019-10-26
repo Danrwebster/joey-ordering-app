@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Teriyaki Chicken Rice Bowl",
+        "id": "1033"
+    },
+    "description": "wok seared vegetables, mushrooms, sweet sesame soy sauce",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "18 \u00c2\u00be",
+                "value": 18.75
+            }
+        }
+    ]
+}

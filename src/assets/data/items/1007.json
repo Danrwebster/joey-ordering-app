@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Sliders Royale",
+        "id": "1007"
+    },
+    "description": "secret sauce, American cheese, Certified Angus Beef\u00c2\u00ae",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "15 ",
+                "value": 15.0
+            }
+        }
+    ]
+}

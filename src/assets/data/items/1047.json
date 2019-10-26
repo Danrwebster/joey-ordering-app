@@ -1,0 +1,68 @@
+{
+    "descriptor": {
+        "title": "New York Steak",
+        "id": "1047"
+    },
+    "description": "the king of steaks + peppercorn sauce 3\u00c2\u00be",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "37 \u00c2\u00bc",
+                "value": 37.25
+            }
+        }
+    ],
+        "modifierGroup" : [ 
+                { 
+                    "groupName": "Temperature", 
+                    "modifiers": [ 
+                        { 
+                            "sku": "", 
+                            "name": "Rare" 
+                        }, 
+                        { 
+                            "sku": "", 
+                            "name": "Medium Rare" 
+                        }, 
+                        { 
+                            "sku": "", 
+                            "name": "Medium" 
+                        }, 
+                        { 
+                            "sku": "", 
+                            "name": "Medium Well" 
+                        }, 
+                        { 
+                            "sku": "", 
+                            "name": "Well Done" 
+                        } 
+                    ], 
+                    "required": true, 
+                    "min": 1, 
+                    "max": 1 
+                }, 
+                { 
+                    "groupName": "Add-Ons", 
+                    "modifiers": [ 
+                        { 
+                            "sku": "2105AA", 
+                            "name": "Peppercorn Sauce", 
+                            "priceLevel": { 
+                                "formattedPrice": "3 ¾", 
+                                "value": 3.75 
+                            } 
+                        }, 
+                        { 
+                            "sku": "2105AC", 
+                            "name": "Pawn Skewer", 
+                            "priceLevel": { 
+                                "formattedPrice": "8", 
+                                "value": 8.00
+                            } 
+                        }
+                    ], 
+                    "required": false 
+                }
+            ]
+        }

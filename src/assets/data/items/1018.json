@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Wedge Of Garlic Toast",
+        "id": "1018"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "2 \u00c2\u00be",
+                "value": 2.75
+            }
+        }
+    ]
+}

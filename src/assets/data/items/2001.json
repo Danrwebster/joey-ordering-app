@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Real Peach Bellini",
+        "id": "2001"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "1oz",
+            "priceLevel": {
+                "formattedPrice": "4&nbsp&#xBD;",
+                "value": 4.50
+            }
+        }
+    ]
+}

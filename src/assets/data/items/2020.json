@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Tandoori Flatbread",
+        "id": "2020"
+    },
+    "description": "chutney, red onion, cilantro, yogurt",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "10",
+                "value": 10
+            }
+        }
+    ]
+}

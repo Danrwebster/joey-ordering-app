@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Rotisserie Chicken + BBQ Ribs",
+        "id": "1044"
+    },
+    "description": "mashed potatoes, today\u00e2\u20ac\u2122s vegetables, sun-dried tomato gravy",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "29 \u00c2\u00bd",
+                "value": 29.5
+            }
+        }
+    ]
+}

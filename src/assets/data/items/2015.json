@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Gyoza",
+        "id": "2015"
+    },
+    "description": "pork dumplings with hot mustard",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "8",
+                "value": 8
+            }
+        }
+    ]
+}

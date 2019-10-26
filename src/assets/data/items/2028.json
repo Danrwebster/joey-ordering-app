@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Panang Prawn Curry Bowl",
+        "id": "2028"
+    },
+    "description": "red curry sauce, lime, thai basil, peanuts",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "16",
+                "value": 16
+            }
+        }
+    ]
+}

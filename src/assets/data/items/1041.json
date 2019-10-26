@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Herb Crush Salmon",
+        "id": "1041"
+    },
+    "description": "lemon butter sauce, crispy mashed potato, today\u00e2\u20ac\u2122s vegetables",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "29 \u00c2\u00bd",
+                "value": 29.5
+            }
+        }
+    ]
+}

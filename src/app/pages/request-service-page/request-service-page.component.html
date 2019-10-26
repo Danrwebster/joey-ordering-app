@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="splash-banner">
+        <div class="menu-title">{{pageTitle}}</div>
+    </div>
+
+    <div id="button-container">
+        <p>Select one of the following options to send a request.</p>
+
+        <button mat-flat-button color="accent" (click)="callServer('GENERAL_REQUEST')" [disabled]="callInProgress">
+            General Request
+        </button>
+
+        <button mat-flat-button color="accent" (click)="callServer('DRINK_REFILLS')" [disabled]="callInProgress">
+            Drink Refills
+        </button>
+
+        <button mat-flat-button color="accent" (click)="callServer('WATER')" [disabled]="callInProgress">
+            Water
+        </button>
+
+        <button mat-flat-button color="accent" (click)="callServer('UTENSILS')" [disabled]="callInProgress">
+            Utensils
+        </button>
+
+        <p *ngIf="callInProgress" class="footer">Only one request every 5 minutes.</p>
+    </div>
+</div>

@@ -1,0 +1,21 @@
+<div class="container">
+    <div class="splash-banner">
+        <div class="menu-title">crowfoot<BR>menu</div>
+    </div>
+    <div class="grid-container">
+        <mat-grid-list cols="2" rowHeight="2:1" gutterSize="15px">
+            <mat-grid-tile color="accent" [colspan]="2" [rowspan]="1" class="menu-category"
+                [routerLink]="'/myMobileMenu'">
+                My Mobile Menu
+            </mat-grid-tile>
+            <mat-grid-tile *ngFor="let menu of menuList" color="accent" [colspan]="2" [rowspan]="1"
+                class="menu-category" [routerLink]="['/menu', menu.descriptor.id]">
+                {{menu.descriptor.title}}
+            </mat-grid-tile>
+        </mat-grid-list>
+    </div>
+    <!-- <div class="footer">
+        <p>Toad 'n' Turtle</p>
+        <p>Calgary Barlow</p>
+    </div> -->
+</div>

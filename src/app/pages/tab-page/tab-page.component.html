@@ -1,0 +1,52 @@
+<div class="container">
+	<div class="splash-banner">
+		<div class="menu-title">{{pageTitle}}</div>
+	</div>
+
+	<ng-container *ngIf="tab.items.length === 0">
+		<div class="menu-item">
+			<div class="line-item">There are currently no items on your tab.<br><br>Head over to the menu to view and order items.
+			</div>
+		</div>
+		<div id="button-container">
+			<button mat-flat-button color="accent" routerLink="/topMenu">
+				Menu
+			</button>
+		</div>
+	</ng-container>
+
+	<div class="menu-item" *ngFor="let item of tab.items">
+		<div class="line-item">
+			<div class="title">
+				{{item.title}} <span *ngIf="item.selectedOptions[0].name">{{item.selectedOptions[0].name}}</span>
+			</div>
+			<div *ngIf="item.selectedOptions[0].priceLevel" class="title">
+				{{item.selectedOptions[0].priceLevel.value | currency}}
+			</div>
+		</div>
+		<div class="line-item" *ngFor="let modifier of item.selectedModifiers">
+			<div class="modifier">
+				{{modifier.name}}
+			</div>
+			<div *ngIf="modifier.priceLevel">
+				{{modifier.priceLevel.value | currency}}
+			</div>
+		</div>
+	</div>
+	<div class="spacer"> </div>
+</div>
+<div class="container footer" *ngIf="tab.totals.total.value > 0">
+	<div class="subTotal">
+		<div class="line-total">
+			Total <span>{{tab.totals.total.value | currency}}</span>
+		</div>
+	</div>
+	<button mat-flat-button color="accent" (click)="showConfirm()">
+		<ng-container *ngIf="!loading">
+			Ready to Pay
+		</ng-container>
+		<ng-container *ngIf="loading">
+			<mat-spinner [diameter]="'20'"></mat-spinner>
+		</ng-container>
+	</button>
+</div>

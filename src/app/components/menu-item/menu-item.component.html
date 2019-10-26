@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="title">
+        <h1 [innerHTML]="item.descriptor.title | safeHTML"></h1>
+        <h1 class="price-option" *ngFor="let option of item.options" [innerHTML]="getPrice(option) | safeHTML">
+        </h1>
+        <mat-icon class="inactive" *ngIf="!item.myMenu">favorite_border</mat-icon>
+        <mat-icon class="active" *ngIf="item.myMenu">favorite</mat-icon>
+    </div>
+    <p [innerHTML]="item.description | safeHTML"></p>
+</div>

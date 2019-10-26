@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Protein-Style Burger",
+        "id": "1030"
+    },
+    "description": "forget the bun, wrapped in lettuce",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "16 \u00c2\u00bd",
+                "value": 16.5
+            }
+        }
+    ]
+}

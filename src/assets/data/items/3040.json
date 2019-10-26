@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Catena 'High Mountain Vines' Malbec - Mendoza, Argentina",
+        "id": "3040"
+    },
+    "description": "Balanced &amp; beautiful high-altitude Malbec from the iconic producer in Argentina",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "58",
+                "value": 58
+            }
+        }
+    ]
+}

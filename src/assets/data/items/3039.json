@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Louis M. Martini Cabernet Sauvignon - Sonoma, California",
+        "id": "3039"
+    },
+    "description": "Your quintessential Cabernet Sauvignon from an historic winery doing it right",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "47",
+                "value": 47
+            }
+        }
+    ]
+}

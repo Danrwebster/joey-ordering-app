@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Japanese Gyoza",
+        "id": "1002"
+    },
+    "description": "pork dumplings with hot mustard",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "14 \u00c2\u00bc",
+                "value": 14.25
+            }
+        }
+    ]
+}

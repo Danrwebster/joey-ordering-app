@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Rotisserie Chicken",
+        "id": "1043"
+    },
+    "description": "mashed potatoes, today\u00e2\u20ac\u2122s vegetables, sun-dried tomato gravy",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "26 ",
+                "value": 26.0
+            }
+        }
+    ]
+}

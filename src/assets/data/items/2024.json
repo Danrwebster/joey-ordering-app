@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "California Chicken Club",
+        "id": "2024"
+    },
+    "description": "spicy mayo, aged cheddar, smoky bacon",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "13",
+                "value": 13
+            }
+        }
+    ]
+}

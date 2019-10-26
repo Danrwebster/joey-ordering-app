@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "The New Cobb",
+        "id": "1023"
+    },
+    "description": "romaine + kale, double smoked bacon, soft boiled egg, grilled chicken breast, Grana Padano dressing",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "19 \u00c2\u00be",
+                "value": 19.75
+            }
+        }
+    ]
+}

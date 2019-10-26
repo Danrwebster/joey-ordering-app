@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Tommasi 'Ca Florian' Amarone Riserva - Veneto, Italy",
+        "id": "3030"
+    },
+    "description": "An Italian legend. Classic Amarone at its most savoury, profound and complex",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "190",
+                "value": 190
+            }
+        }
+    ]
+}

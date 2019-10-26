@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Sushi Cone",
+        "id": "2014"
+    },
+    "description": "tempura prawn, avocado, spicy mayo, tobiko",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "4",
+                "value": 4
+            }
+        }
+    ]
+}

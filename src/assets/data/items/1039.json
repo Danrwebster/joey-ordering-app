@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Baby Back Ribs - Half",
+        "id": "1039"
+    },
+    "description": "slow-braised-in-house, bbq sauce, fries, dill slaw",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "25 \u00c2\u00be",
+                "value": 25.75
+            }
+        }
+    ]
+}

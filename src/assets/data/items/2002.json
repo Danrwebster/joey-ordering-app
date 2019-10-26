@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Signature Sangria",
+        "id": "2002"
+    },
+    "description": "",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "3oz",
+            "priceLevel": {
+                "formattedPrice": "4&nbsp&#xBD;",
+                "value": 4.50
+            }
+        }
+    ]
+}

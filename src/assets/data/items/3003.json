@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Pol Roger ‘Cuvee De Reserve’ Brut - Champagne, France",
+        "id": "3003"
+    },
+    "description": "An absolute classic. This top Champagne house delivers nothing but elegance &amp; finesse",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "135",
+                "value": 135
+            }
+        }
+    ]
+}

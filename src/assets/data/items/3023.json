@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Meiomi Pinot Noir - California",
+        "id": "3023"
+    },
+    "description": "A richer style of Pinot with dark fruit characters and intense spice",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "65",
+                "value": 65
+            }
+        }
+    ]
+}

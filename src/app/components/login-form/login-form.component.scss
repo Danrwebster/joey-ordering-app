@@ -1,0 +1,82 @@
+@import "variables";
+@import "mixins";
+
+#card-container {
+    width: 384px;
+    margin: 0 auto;
+    padding: 0;
+    border-radius: 0;
+
+    @include breakpoint(mobile-medium) {
+        width: auto;
+        margin: 0 15px;
+    }
+
+
+    .form-container {
+        margin: 20px 20px 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .flex-container {
+        display: flex;
+        justify-content: space-between;
+        margin: 10px 20px 0;
+
+        &:last-of-type {
+            margin: 0 20px 20px;
+        }
+
+        button {
+            flex: 0 0 48%;
+            height: 50px;
+            border-radius: 0;
+            font-family: brandon-grotesque, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            font-size: 18px;
+            font-weight: bold;
+            color: $light-text;
+
+            &.secondary {
+                color: $dark-text;
+                border: 2px solid $dark-text;
+                opacity: 0.25;
+            }
+        }
+
+        span {
+            align-self: center;
+        }
+
+        &.secondary {
+            opacity: 0.25;
+
+            button {
+                height: auto;
+                font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                text-transform: none;
+                letter-spacing: normal;
+                font-size: 14px;
+                font-weight: normal;
+                color: $dark-text;
+            }
+        }
+    }
+}
+
+mat-card-content {
+    margin: 0;
+}
+
+mat-card-content {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+mat-spinner {
+    margin: 0 auto;
+}

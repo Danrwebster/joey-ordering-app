@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Rust Wine Co. Cabernet Franc - Okanagan Valley, BC",
+        "id": "3027"
+    },
+    "description": "BC Cabernet Franc — Juicy, smoky and perfect with a variety of food",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "65",
+                "value": 65
+            }
+        }
+    ]
+}

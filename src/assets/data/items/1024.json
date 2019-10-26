@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Ahi Tuna Club",
+        "id": "1024"
+    },
+    "description": "grilled rare, bacon, sweet pepper relish, onion rings",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "18 \u00c2\u00be",
+                "value": 18.75
+            }
+        }
+    ]
+}

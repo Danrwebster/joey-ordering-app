@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Katsu Chicken Peanut Salad",
+        "id": "1020"
+    },
+    "description": "crispy chicken breast, julienne vegetables, arugula, miso ginger dressing",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "19 \u00c2\u00be",
+                "value": 19.75
+            }
+        }
+    ]
+}

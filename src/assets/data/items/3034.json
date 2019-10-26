@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Musella Valpolicella Ripasso - Veneto, Italy",
+        "id": "3034"
+    },
+    "description": "Expressive Italian gem with a depth and intensity from partially dried grapes",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "58",
+                "value": 58
+            }
+        }
+    ]
+}

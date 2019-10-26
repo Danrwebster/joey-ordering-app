@@ -1,0 +1,15 @@
+{
+    "descriptor": {
+        "title": "Corona",
+        "id": "4013"
+    },
+    "options": [
+        {
+            "name": "330ml",
+            "priceLevel": {
+                "formattedPrice": "8",
+                "value": 8
+            }
+        }
+    ]
+}

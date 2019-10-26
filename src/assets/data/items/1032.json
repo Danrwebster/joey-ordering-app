@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "BBQ Salmon Rice Bowl",
+        "id": "1032"
+    },
+    "description": "sweet sesame soy sauce, snap peas, edamame, mushrooms, daikon",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "19 \u00c2\u00bc",
+                "value": 19.25
+            }
+        }
+    ]
+}

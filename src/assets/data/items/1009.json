@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Crispy Chicken Strips",
+        "id": "1009"
+    },
+    "description": "with plum sauce",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "13 \u00c2\u00bd",
+                "value": 13.5
+            }
+        }
+    ]
+}

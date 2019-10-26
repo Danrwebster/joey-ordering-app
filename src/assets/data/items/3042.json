@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Edge Cabernet Sauvignon - Alexander Valley, California",
+        "id": "3042"
+    },
+    "description": "A longstanding guest favourite. Rich &amp; decadent dark fruit that goes down easy",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "80",
+                "value": 80
+            }
+        }
+    ]
+}

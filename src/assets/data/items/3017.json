@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Louis Jadot Pouilly-Fuisse - Burgundy, France",
+        "id": "3017"
+    },
+    "description": "Classic French Chardonnay. Nuances of ripe fruit, wild honey, and warm spice",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "83",
+                "value": 83
+            }
+        }
+    ]
+}

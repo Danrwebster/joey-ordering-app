@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "El Petit Bonhomme Red Blend - Jumilla, Spain",
+        "id": "3031"
+    },
+    "description": "Warm tones and soft fruit. Pure berry expression evolves to a lingering finish",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "10&nbsp&#xBD;",
+                "value": 10.5
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "15&nbsp&#xBE;",
+                "value": 15.75
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "42",
+                "value": 42
+            }
+        }
+    ]
+}

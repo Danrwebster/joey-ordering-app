@@ -1,0 +1,33 @@
+<div id="container">
+    <div class="flex-container" [ngClass]="{'hide': confirmModal}">
+        <mat-card class="card">
+            <mat-card-title>{{item.descriptor.title}}</mat-card-title>
+            <mat-card-content class="list-container">
+                {{item.description}}
+                <mat-button-toggle-group [name]="'option'" aria-label="Option">
+                    <mat-button-toggle *ngFor="let option of item.options; let i = index" [class.display]="option.name"
+                        [value]="option.name" [checked]="i === 0" (change)="updateOptions(option)">
+                        {{option.name}}
+                    </mat-button-toggle>
+                </mat-button-toggle-group>
+            </mat-card-content>
+        </mat-card>
+        <app-item-modifier-list *ngFor="let modifierGroup of item.modifierGroup" [modifierGroup]="modifierGroup"
+            (update)="updateModifiers(modifierGroup.groupName, $event)"></app-item-modifier-list>
+        <div class="spacer"> </div>
+    </div>
+    <app-order-drawer [ngClass]="{'hide': confirmModal}" (back)="hideModal()" (submit)="showConfirm()">
+    </app-order-drawer>
+    <div class="flex-container modal" [ngClass]="{'hide': !confirmModal}">
+        <mat-card class="card">
+            <mat-card-title>Order This Item?</mat-card-title>
+            <mat-card-content>
+                This will send the order to the kitchen.
+            </mat-card-content>
+            <div class="button-container">
+                <button mat-stroked-button class="secondary" color="primary" (click)="hideConfirm()">Back</button>
+                <button mat-flat-button color="accent" (click)="submit()">Order</button>
+            </div>
+        </mat-card>
+    </div>
+</div>

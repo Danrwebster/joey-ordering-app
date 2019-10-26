@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "D'arenberg 'The Stump Jump' Shiraz - McLaren Vale, Australia",
+        "id": "3037"
+    },
+    "description": "A traditional, old-school Aussie Shiraz. Loads of richness and spice. Absolutely authentic",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "11&nbsp&#xBE;",
+                "value": 11.75
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "17&nbsp&#xBE;",
+                "value": 17.75
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "48",
+                "value": 48
+            }
+        }
+    ]
+}

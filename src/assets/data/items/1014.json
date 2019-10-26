@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "BBQ Wings",
+        "id": "1014"
+    },
+    "description": "blue cheese dip, crispy onions",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "14 \u00c2\u00bd",
+                "value": 14.5
+            }
+        }
+    ]
+}

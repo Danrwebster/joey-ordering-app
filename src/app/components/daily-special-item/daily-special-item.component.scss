@@ -1,0 +1,62 @@
+@import "variables";
+
+.container {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    background-color: $primary-accent;
+}
+
+h1 {
+    height: auto;
+    margin: 0;
+    padding: 0;
+    font-family: league-gothic, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 28px;
+    color: $light-text;
+}
+
+h2 {
+    height: auto;
+    margin: 0;
+    span {
+        margin: 0;
+        padding: 0;
+        font-family: league-gothic, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 24px;
+        color: $light-text;
+    }
+}
+
+p {
+    height: auto;
+    margin: 0;
+    padding: 0;
+    font-family: adobe-garamond-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    color: $light-text;
+}
+
+hr {
+    margin: 10px 0 0;
+    width: 100%;
+    border-style: dotted;
+    border-color: $light-text;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.price-option {
+    &:not(:last-of-type)::after {
+        content: "\2022";
+    }
+}

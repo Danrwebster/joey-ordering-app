@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Chicken Parmesan",
+        "id": "2030"
+    },
+    "description": "baked with mozzarella + parmesan cheeses, served with our spaghetti pomodoro",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "20",
+                "value": 20
+            }
+        }
+    ]
+}

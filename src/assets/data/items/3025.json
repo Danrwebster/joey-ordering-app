@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Strada Bianca Super Tuscan - Tuscany, Italy",
+        "id": "3025"
+    },
+    "description": "Ciao! Cabernet &amp; Sangiovese blend from the warm Tuscan hillsides",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "11&nbsp&#xBD;",
+                "value": 11.5
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "17&nbsp&#xBC;",
+                "value": 17.25
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "46",
+                "value": 46
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "descriptor": {
+        "title": "Shock Top Belgian White",
+        "id": "4005"
+    },
+    "options": [
+        {
+            "name": "14oz",
+            "priceLevel": {
+                "formattedPrice": "7&nbsp&#xBD;",
+                "value": 7.5
+            }
+        }
+    ]
+}

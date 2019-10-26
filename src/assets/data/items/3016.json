@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "La Crema Chardonnay - Sonoma, California",
+        "id": "3016"
+    },
+    "description": "Rich and rounded Chardonnay offering ripe fruit framed by toasty oak",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "70",
+                "value": 70
+            }
+        }
+    ]
+}

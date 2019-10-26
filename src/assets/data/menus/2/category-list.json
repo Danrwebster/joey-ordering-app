@@ -1,0 +1,558 @@
+{
+	"title": "Happy Hour",
+	"imageURL": "../../../assets/images/HappyHour.jpg",
+	"dailySpecial": {
+		"descriptor": {
+			"title": "",
+			"id": ""
+		},
+		"options": [
+			{
+				"name": ""
+			}
+		],
+		"description": "",
+		"myMenu": false
+	},
+	"footerImage": "url",
+	"categories": [
+		{
+			"descriptor": {
+				"title": "Happy Hour Drinks",
+				"id": "20"
+			},
+			"menuItems": [
+				{
+                    "descriptor": {
+                        "title": "JOEY Genuine Draft",
+                        "id": "2000"
+                    },
+                    "options": [
+                        {
+                            "name": "14oz",
+                            "priceLevel": {
+                                "formattedPrice": "3&nbsp&#xBD;",
+                                "value": 3.5
+                            }
+                        }
+                    ]
+                },
+				{
+					"descriptor": {
+						"title": "Real Peach Bellini",
+						"id": "2001"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "1oz",
+							"priceLevel": {
+								"formattedPrice": "4&nbsp&#xBD;",
+								"value": 4.50
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Signature Sangria",
+						"id": "2002"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "3oz",
+							"priceLevel": {
+								"formattedPrice": "4&nbsp&#xBD;",
+								"value": 4.50
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Single Supers",
+						"id": "2003"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "1oz",
+							"priceLevel": {
+								"formattedPrice": "4&nbsp&#xBD;",
+								"value": 4.50
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "P49 'Trash Panda' IPA",
+						"id": "2004"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "14oz",
+							"priceLevel": {
+								"formattedPrice": "4&nbsp&#xBD;",
+								"value": 4.50
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Okanagan Springs 1516",
+						"id": "2005"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "14oz",
+							"priceLevel": {
+								"formattedPrice": "4&nbsp&#xBD;",
+								"value": 4.50
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Cuvée Jean Paul White",
+						"id": "2006"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "6oz",
+							"priceLevel": {
+								"formattedPrice": "5&nbsp&#xBD;",
+								"value": 5.50
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Cuvée Jean Paul Red",
+						"id": "2007"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "6oz",
+							"priceLevel": {
+								"formattedPrice": "5&nbsp&#xBD;",
+								"value": 5.50
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Negroni",
+						"id": "2008"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "3oz",
+							"priceLevel": {
+								"formattedPrice": "7&nbsp&#xBD;",
+								"value": 7.50
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Stella Artois",
+						"id": "2009"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "40cl",
+							"priceLevel": {
+								"formattedPrice": "7&nbsp&#xBD;",
+								"value": 7.50
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Castel Firmian Pinot Grigio",
+						"id": "2010"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "6oz",
+							"priceLevel": {
+								"formattedPrice": "7&nbsp&#xBD;",
+								"value": 7.50
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Punto Final Malbec",
+						"id": "2011"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"name": "6oz",
+							"priceLevel": {
+								"formattedPrice": "7&nbsp&#xBD;",
+								"value": 7.50
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"descriptor": {
+				"title": "Happy Hour Food",
+				"id": "20"
+			},
+			"menuItems": [
+				{
+					"descriptor": {
+						"title": "Rosemary Garlic Fries",
+						"id": "2012"
+					},
+					"description": "with grainy mustard aioli",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "4",
+								"value": 4
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Yam Fries",
+						"id": "2013"
+					},
+					"description": "with spicy aioli",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "4",
+								"value": 4
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Sushi Cone",
+						"id": "2014"
+					},
+					"description": "tempura prawn, avocado, spicy mayo, tobiko",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "4",
+								"value": 4
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Gyoza",
+						"id": "2015"
+					},
+					"description": "pork dumplings with hot mustard",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "8",
+								"value": 8
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Sliders Royale Duo",
+						"id": "2016"
+					},
+					"description": "secret sauce, american cheese, Certified Angus Beef®",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "8",
+								"value": 8
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Chili Chicken",
+						"id": "2017"
+					},
+					"description": "tempura-style, cool cucumbers, chili sauce",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "8",
+								"value": 8
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Pesto Shrimp Flatbread",
+						"id": "2018"
+					},
+					"description": "whole milk mozzarella, sun-dried tomatoes, chipotle aioli",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "10",
+								"value": 10
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Lettuce Wraps ",
+						"id": "2019"
+					},
+					"description": "wok vegetables, peanuts, crispy noodles, hoisin oyster sauce, cilantro",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "10",
+								"value": 10
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Tandoori Flatbread",
+						"id": "2020"
+					},
+					"description": "chutney, red onion, cilantro, yogurt",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "10",
+								"value": 10
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Seared Salmon Sushi",
+						"id": "2021"
+					},
+					"description": "osaka pressed, fire torched salmon, umami sauce, shaved serrano peppers",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "13",
+								"value": 13
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Lettuce Wraps (Chicken)",
+						"id": "2022"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "13",
+								"value": 13
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Lettuce Wraps (Shrimp)",
+						"id": "2023"
+					},
+					"description": "",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "13",
+								"value": 13
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "California Chicken Club",
+						"id": "2024"
+					},
+					"description": "spicy mayo, aged cheddar, smoky bacon",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "13",
+								"value": 13
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Hand-Pressed Burger",
+						"id": "2025"
+					},
+					"description": "all the groceries, Certified Angus Beef®",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "13",
+								"value": 13
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Spaghetti Pomodoro",
+						"id": "2026"
+					},
+					"description": "calabrian chili spiked tomato sauce, whipped ricotta, fresh basil, parmesan",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "13",
+								"value": 13
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Teriyaki Chicken Rice Bowl",
+						"id": "2027"
+					},
+					"description": "wok seared vegetables, mushrooms, sweet sesame soy sauce",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "16",
+								"value": 16
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Panang Prawn Curry Bowl",
+						"id": "2028"
+					},
+					"description": "red curry sauce, lime, thai basil, peanuts",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "16",
+								"value": 16
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Bombay Butter Chicken",
+						"id": "2029"
+					},
+					"description": "yogurt + cilantro, aromatic basmati rice, house baked naan",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "16",
+								"value": 16
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Chicken Parmesan",
+						"id": "2030"
+					},
+					"description": "baked with mozzarella + parmesan cheeses, served with our spaghetti pomodoro",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "20",
+								"value": 20
+							}
+						}
+					]
+				},
+				{
+					"descriptor": {
+						"title": "Steak Frites",
+						"id": "2031"
+					},
+					"description": "6oz cut, parsley butter, rocket greens, fries",
+					"myMenu": false,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "20",
+								"value": 20
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

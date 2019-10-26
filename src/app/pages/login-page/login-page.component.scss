@@ -1,0 +1,57 @@
+@import "variables";
+@import "mixins";
+
+:host {
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("../../../assets/images/CasualDining_Homepage.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo-container {
+    width: 780px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+    @include breakpoint(tablet) {
+        width: auto;
+        margin: 20px 0;
+    }
+
+
+    .menu-title {
+        z-index: 1;
+        font-family: brandon-grotesque, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 8px;
+        font-size: 32px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 32px;
+        color: $light-text;
+    }
+}
+
+.foot-note {
+    margin: 20px auto;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: $light-text;
+    opacity: 0.8;
+}

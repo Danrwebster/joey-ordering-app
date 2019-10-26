@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Simonnet-Febvre Chablis - Burgundy, France",
+        "id": "3012"
+    },
+    "description": "Pure &amp; bright unoaked Chardonnay. Nuances of citrus &amp; mineral with hidden complexity",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "53",
+                "value": 53
+            }
+        }
+    ]
+}

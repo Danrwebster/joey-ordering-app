@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Pesto Shrimp Flatbread",
+        "id": "1005"
+    },
+    "description": "whole milk mozzarella, sun-dried tomatoes, chipotle aioli",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "16 \u00c2\u00be",
+                "value": 16.75
+            }
+        }
+    ]
+}

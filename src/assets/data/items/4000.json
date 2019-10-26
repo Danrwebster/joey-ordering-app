@@ -1,0 +1,15 @@
+{
+    "descriptor": {
+        "title": "JOEY Genuine Draft",
+        "id": "4000"
+    },
+    "options": [
+        {
+            "name": "14oz",
+            "priceLevel": {
+                "formattedPrice": "6&nbsp&#xBE;",
+                "value": 6.75
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Chili Chicken",
+        "id": "2017"
+    },
+    "description": "tempura-style, cool cucumbers, chili sauce",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "8",
+                "value": 8
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Bombay Butter Chicken",
+        "id": "1036"
+    },
+    "description": "aromatic basmati rice, house baked naan",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "20 \u00c2\u00bd",
+                "value": 20.5
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Hand-Pressed Burger",
+        "id": "2025"
+    },
+    "description": "all the groceries, Certified Angus Beef®",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "13",
+                "value": 13
+            }
+        }
+    ]
+}

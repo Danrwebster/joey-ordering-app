@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Three Mini Crispy Chicken Burgers",
+        "id": "1010"
+    },
+    "description": "spicy aioli, pickles, smoky salt",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "15 \u00c2\u00bc",
+                "value": 15.25
+            }
+        }
+    ]
+}

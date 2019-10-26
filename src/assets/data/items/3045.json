@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Caymus Cabernet Sauvignon - Napa Valley, California",
+        "id": "3045"
+    },
+    "description": "Decadent &amp; rich with layers of dark berry fruit. A Napa icon",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "155",
+                "value": 155
+            }
+        }
+    ]
+}

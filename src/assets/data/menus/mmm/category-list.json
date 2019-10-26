@@ -1,0 +1,71 @@
+{
+    "title": "My Mobile Menu",
+    "imageURL": "../../../assets/images/TableSplash.jpg",
+    "footerImage": "url",
+    "categories": [
+        {
+			"descriptor": {
+				"title": "Smalls + Sharing",
+				"id": "10"
+			},
+			"menuItems": [
+				{
+					"descriptor": {
+						"title": "Hummus",
+						"id": "1000"
+					},
+					"description": "tzatziki, dill + olives, crispy pita",
+					"myMenu": true,
+					"options": [
+						{
+							"priceLevel": {
+								"formattedPrice": "15",
+								"value": 15.0
+							}
+						}
+					]
+				}
+            ]
+        },
+        {
+            "descriptor": {
+                "title": "White",
+                "subTitle": "Crisp, Dry, &amp; Quenching",
+                "id": "30"
+            },
+            "menuItems": [
+                {
+                    "descriptor": {
+                        "title": "Castel Firmian Pinot Grigio - Veneto, Italy",
+                        "id": "3011"
+                    },
+                    "description": "Exceptionally fine Pinot Grigio. Ripe stone fruit &amp; mouthwatering texture",
+                    "myMenu": true,
+                    "options": [
+                        {
+                            "name": "6oz",
+                            "priceLevel": {
+                                "formattedPrice": "13&nbsp&#xBE;",
+                                "value": 13.75
+                            }
+                        },
+                        {
+                            "name": "9oz",
+                            "priceLevel": {
+                                "formattedPrice": "20&nbsp&#xBD;",
+                                "value": 20.5
+                            }
+                        },
+                        {
+                            "name": "Bottle",
+                            "priceLevel": {
+                                "formattedPrice": "55",
+                                "value": 55
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

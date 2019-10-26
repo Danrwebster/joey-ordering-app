@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Seven Terraces Sauvignon Blanc - Marlborough, New Zealand",
+        "id": "3010"
+    },
+    "description": "Classic kiwi Sauvignon Blanc. Ultra-fragrant. Citrus, grapefruit &amp; sheared herbs",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "13&nbsp&#xBD;",
+                "value": 13.5
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "20&nbsp&#xBC;",
+                "value": 20.25
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "55",
+                "value": 55
+            }
+        }
+    ]
+}

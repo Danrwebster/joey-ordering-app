@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "5 Spice Dry Ribs",
+        "id": "1011"
+    },
+    "description": "crispy pork dry ribs, seasoned with chinese 5 spice, coarse salt, fresh lemon",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "12 \u00c2\u00bd",
+                "value": 12.5
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Kendall Jackson 'Avant' Chardonnay - California",
+        "id": "3015"
+    },
+    "description": "Pure fruit &amp; ripe textures combine to deliver a smooth, rounded finish",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "13",
+                "value": 13
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "19&nbsp&#xBD;",
+                "value": 19.5
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "50",
+                "value": 50
+            }
+        }
+    ]
+}

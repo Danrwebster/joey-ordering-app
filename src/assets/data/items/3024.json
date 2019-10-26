@@ -1,0 +1,17 @@
+{
+    "descriptor": {
+        "title": "Schug 'Carneros' Pinot Noir - Sonoma, California",
+        "id": "3024"
+    },
+    "description": "One of the great Pinot Noir estates of California. Smoky, silky &amp; complex",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "85",
+                "value": 85
+            }
+        }
+    ]
+}

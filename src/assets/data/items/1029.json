@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Hand-Pressed Burger",
+        "id": "1029"
+    },
+    "description": "all the groceries, Certified Angus Beef\u00c2\u00ae + mushroom cheddar 2 + cheddar bacon 2",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "16 \u00c2\u00be",
+                "value": 16.75
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "descriptor": {
+        "title": "Last Best IPA",
+        "id": "4008"
+    },
+    "options": [
+        {
+            "name": "14oz",
+            "priceLevel": {
+                "formattedPrice": "7&nbsp&#xBD;",
+                "value": 7.5
+            }
+        }
+    ]
+}

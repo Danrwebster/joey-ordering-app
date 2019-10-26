@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Le Fou Rosé - France",
+        "id": "3019"
+    },
+    "description": "Your classic, bone-dry, super-fresh French rosé",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "11&nbsp&#xBC;",
+                "value": 11.25
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "16&nbsp&#xBE;",
+                "value": 16.75
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "45",
+                "value": 45
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "descriptor": {
+        "title": "Murphy-Goode Pinot Noir - California",
+        "id": "3021"
+    },
+    "description": "Juicy, silky &amp; crushable. The hallmark elegance of Pinot Noir",
+    "myMenu": false,
+    "options": [
+        {
+            "name": "6oz",
+            "priceLevel": {
+                "formattedPrice": "12&nbsp&#xBC;",
+                "value": 12.25
+            }
+        },
+        {
+            "name": "9oz",
+            "priceLevel": {
+                "formattedPrice": "18&nbsp&#xBD;",
+                "value": 18.5
+            }
+        },
+        {
+            "name": "Bottle",
+            "priceLevel": {
+                "formattedPrice": "50",
+                "value": 50
+            }
+        }
+    ]
+}

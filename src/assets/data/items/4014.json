@@ -1,0 +1,15 @@
+{
+    "descriptor": {
+        "title": "Heineken",
+        "id": "4014"
+    },
+    "options": [
+        {
+            "name": "330ml",
+            "priceLevel": {
+                "formattedPrice": "8",
+                "value": 8
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "descriptor": {
+        "title": "Sliders Royale Duo",
+        "id": "2016"
+    },
+    "description": "secret sauce, american cheese, Certified Angus Beef®",
+    "myMenu": false,
+    "options": [
+        {
+            "priceLevel": {
+                "formattedPrice": "8",
+                "value": 8
+            }
+        }
+    ]
+}
