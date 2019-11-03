@@ -13,8 +13,7 @@ phases:
   build:
     commands:
       - echo Invalidating CloudFront Cache
-      # REPLACE XXXXXXXX WITH THE CLOUDFRONT DISTRIBUTION ID OF YOUR STATIC WEBSITE AND UNCOMMENT THE LINE
-      # - aws cloudfront create-invalidation --distribution-id XXXXXXXX --paths "/*"
+      - aws cloudfront create-invalidation --distribution-id E18NZX2E9LGAKS --paths "/*"
       - echo Build stage started
       - ng build --prod
       - aws s3 sync ./dist/my-personal-menu/ s3://joeys.mymobile.menu --acl 'public-read' --delete
